@@ -15,13 +15,12 @@
 
 
 ### Glad to see you here!  
-I am a python basic developer 👨‍💻 I am studying at Anadolu Gelişim Okulları 🖋️
+I am a python basic developer 👨‍💻 I am studying at [Anadolu Gelişim Okulları](https://ago.com.tr/) 🖋️
 
 I want to be a software developer when I grow up . I am eleven years old 🧒
 I've been making software since 2014.
 
-Have a nice explore my github page ✌️
-  
+Have a nice explore my github page ✌️  
   
 
 <br/>  
