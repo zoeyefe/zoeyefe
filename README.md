@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Java and Android Studio <br>🌱 I’m currently learning Android Studio<br>💬 Ask me about<br>⚡ Fun fact : I love listining the music
+🔭 I’m currently working on Java and Android Studio <br>🌱 I’m currently learning Android Studio<br>💬 Ask me about<br>⚡ Fun fact : I love listening the music
 
 
 ## 🌐 Socials:
