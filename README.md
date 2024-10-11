@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [github.com/zoeyefe](github.com/zoeyefe)
 
-- ⚡ Fun fact **I thanks I am good developer**
+- ⚡ Fun fact **I love programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
