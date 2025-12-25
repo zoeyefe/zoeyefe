@@ -13,7 +13,7 @@ Hello 👋, I'm Mehmet Efe Servili<br>Software and Android Developer<br>Sanırı
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zoeyefe&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=zoeyefe)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=zoeyefe)]
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
