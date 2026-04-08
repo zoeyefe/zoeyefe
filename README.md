@@ -1,16 +1,29 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:3a3a3a&height=220&section=header&text=Mehmet%20Efe%20Servili&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20and%20Android%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:161616,100:3c3c3c&height=250&section=header&text=Mehmet%20Efe%20Servili&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Software%20%7C%20Android%20%7C%20Open%20Source&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Efe;Software+%26+Android+Developer;Building+cool+things+since+forever...;San%C4%B1r%C4%B1m+yaz%C4%B1l%C4%B1m%C4%B1+%C3%A7ok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <br/>
+
+<h3>A developer who likes clean products, solid engineering, and building things that feel alive.</h3>
+
+<p>
+  Mobile apps • backend systems • polished interfaces • creative side projects
+</p>
 
 [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://efeservili.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeservili)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zoeyefese)
 [![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@efeservili)
 [![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eservili42@gmail.com)
+
+<br/><br/>
+
+![](https://img.shields.io/badge/Focus-Android-2b2b2b?style=flat-square)
+![](https://img.shields.io/badge/Focus-Backend-2b2b2b?style=flat-square)
+![](https://img.shields.io/badge/Focus-UI%2FUX-2b2b2b?style=flat-square)
+![](https://img.shields.io/badge/Focus-Open%20Source-2b2b2b?style=flat-square)
 
 </div>
 
@@ -26,9 +39,19 @@ val efe = Developer(
     passion  = "Writing code since a very young age",
     focus    = listOf("Android Development", "Software Engineering", "Open Source"),
     website  = "efeservili.dev",
-    status   = "😴 (but still coding)"
+    status   = "Building, learning, shipping"
 )
 ```
+
+<div align="center">
+
+| Now | Value |
+|---|---|
+| Main Focus | Android and software engineering |
+| Building Style | Clean, modern, and useful products |
+| Favorite Energy | Shipping ideas fast, then refining hard |
+
+</div>
 
 ---
 
@@ -85,10 +108,24 @@ val efe = Developer(
 
 ---
 
+## 🚀 Current Vibe
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zoeyefe&color=white&style=for-the-badge&label=PROFILE+VIEWS)
+```text
+designing smooth experiences
+writing maintainable code
+turning ideas into products
+```
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=zoeyefe&color=e6e6e6&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3c3c,50:161616,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
