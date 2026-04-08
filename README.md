@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mehmet%20Efe%20Servili&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20%26%20Android%20Developer%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0f0c29,50:302b63,100:24243e&amp;height=220&amp;section=header&amp;text=Mehmet%20Efe%20Servili&amp;fontSize=50&amp;fontColor=ffffff&amp;fontAlignY=40&amp;desc=Software%20%26%20Android%20Developer%20%F0%9F%87%B9%F0%9F%87%B7&amp;descAlignY=60&amp;descSize=20&amp;animation=fadeIn" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Efe;Software+%26+Android+Developer;Building+cool+things+since+forever...;Sanırım+yazılımı+çok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
 
