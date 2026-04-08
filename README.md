@@ -4,12 +4,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mehmet%20Efe%20Servili&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Software%20%26%20Android%20Developer%20%F0%9F%87%B9%F0%9F%87%B7&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;Software+%26+Android+Developer;Building+things+since+forever...;Sanırım+yazılımı+çok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World!+%F0%9F%91%8B;Software+%26+Android+Developer;Building+things+since+forever...;San%C4%B1r%C4%B1m+yaz%C4%B1l%C4%B1m%C4%B1+%C3%A7ok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <br/>
 
 <!-- SOCIAL BADGES -->
-[![Website](https://img.shields.io/badge/🌐_efeservili.dev-Visit-7c3aed?style=for-the-badge&labelColor=0f0f0f)](https://efeservili.dev)
+[![Website](https://img.shields.io/badge/%F0%9F%8C%90_efeservili.dev-Visit-7c3aed?style=for-the-badge&labelColor=0f0f0f)](https://efeservili.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeservili)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zoeyefese)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@efeservili)
@@ -70,7 +70,6 @@ val efe = Developer(
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens)
-![NPM](https://img.shields.io/badge/NPM-CB3837?style=flat-square&logo=npm&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white)
 
 </details>
@@ -95,7 +94,7 @@ val efe = Developer(
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
 ![WireGuard](https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white)
-![FFmpeg](https://shields.io/badge/FFmpeg-171717?style=flat-square&logo=ffmpeg&labelColor=171717&logoColor=5cb85c)
+![FFmpeg](https://img.shields.io/badge/FFmpeg-171717?style=flat-square&logo=ffmpeg&logoColor=5cb85c)
 ![Bitwarden](https://img.shields.io/badge/Bitwarden-175DDC?style=flat-square&logo=bitwarden&logoColor=white)
 
 </details>
@@ -107,13 +106,14 @@ val efe = Developer(
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoeyefe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117"/>
+&nbsp;&nbsp;
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoeyefe&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=zoeyefe&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=zoeyefe&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -123,17 +123,7 @@ val efe = Developer(
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=zoeyefe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🔝 Top Contributed Repos
-
-<div align="center">
-
-[![](https://github-contributor-stats.vercel.app/api?username=zoeyefe&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true)](https://github.com/lowlighter/metrics)
+<img src="https://github-profile-trophy.vercel.app/?username=zoeyefe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 
 </div>
 
@@ -143,7 +133,7 @@ val efe = Developer(
 
 <div align="center">
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)](https://github.com/piyushsuthar/github-readme-quotes)
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
 
 </div>
 
@@ -151,7 +141,9 @@ val efe = Developer(
 
 <div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=zoeyefe&icon=6&color=6)](https://visitcount.itsvg.in)
+<img src="https://visitcount.itsvg.in/api?id=zoeyefe&icon=6&color=6" alt="visitor count"/>
+
+<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
 
