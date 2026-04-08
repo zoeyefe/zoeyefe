@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Efe;Software+%26+Android+Developer;Building+cool+things+since+forever...;San%C4%B1r%C4%B1m+yaz%C4%B1l%C4%B1m%C4%B1+%C3%A7ok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <br/>
+
 [![Website](https://img.shields.io/badge/🌐%20efeservili.dev-7c3aed?style=for-the-badge)](https://efeservili.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/efeservili)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zoeyefese)
