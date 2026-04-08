@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mehmet%20Efe%20Servili&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20and%20Android%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a1a,100:3a3a3a&height=220&section=header&text=Mehmet%20Efe%20Servili&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Software%20and%20Android%20Developer&descAlignY=60&descSize=20&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Efe;Software+%26+Android+Developer;Building+cool+things+since+forever...;San%C4%B1r%C4%B1m+yaz%C4%B1l%C4%B1m%C4%B1+%C3%A7ok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=650&lines=Hello+World!+%F0%9F%91%8B+I'm+Efe;Software+%26+Android+Developer;Building+cool+things+since+forever...;San%C4%B1r%C4%B1m+yaz%C4%B1l%C4%B1m%C4%B1+%C3%A7ok+seviyorum+%F0%9F%92%9C)](https://git.io/typing-svg)
 
 <br/>
 
-[![Website](https://img.shields.io/badge/🌐%20efeservili.dev-7c3aed?style=for-the-badge)](https://efeservili.dev)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/efeservili)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/zoeyefese)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@efeservili)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eservili42@gmail.com)
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://efeservili.dev)
+[![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeservili)
+[![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zoeyefese)
+[![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@efeservili)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eservili42@gmail.com)
 
 </div>
 
@@ -59,12 +59,12 @@ val efe = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoeyefe&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoeyefe&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoeyefe&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoeyefe&theme=github_dark" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=zoeyefe&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=zoeyefe&theme=github-dark&hide_border=false&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=BBBBBB" />
 </div>
 
 ---
@@ -72,7 +72,7 @@ val efe = Developer(
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoeyefe&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zoeyefe&bg_color=0d1117&color=ffffff&line=d9d9d9&point=ffffff&area=true&area_color=2b2b2b&hide_border=true" width="100%"/>
 </div>
 
 ---
@@ -80,23 +80,15 @@ val efe = Developer(
 ## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoeyefe&theme=tokyonight" width="100%" />
-</div>
-
----
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoeyefe&theme=github_dark" width="100%" />
 </div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=zoeyefe&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=zoeyefe&color=white&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a3a3a,50:1a1a1a,100:000000&height=120&section=footer" width="100%"/>
 
 </div>
