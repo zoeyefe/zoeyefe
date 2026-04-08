@@ -12,6 +12,8 @@
   Mobile apps • backend systems • polished interfaces • creative side projects
 </p>
 
+<br/>
+
 [![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://efeservili.dev)
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeservili)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zoeyefese)
@@ -31,25 +33,42 @@
 
 ## 👨‍💻 About Me
 
-```kotlin
-val efe = Developer(
-    name     = "Mehmet Efe Servili",
-    alias    = "zoeyefe",
-    country  = "🇹🇷 Turkey",
-    passion  = "Writing code since a very young age",
-    focus    = listOf("Android Development", "Software Engineering", "Open Source"),
-    website  = "efeservili.dev",
-    status   = "Building, learning, shipping"
-)
-```
-
 <div align="center">
 
-| Now | Value |
-|---|---|
-| Main Focus | Android and software engineering |
-| Building Style | Clean, modern, and useful products |
-| Favorite Energy | Shipping ideas fast, then refining hard |
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h3>Identity</h3>
+      <p>
+        Mehmet Efe Servili<br/>
+        aka <b>zoeyefe</b><br/>
+        based in Turkey
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Focus</h3>
+      <p>
+        Android development<br/>
+        software engineering<br/>
+        open source
+      </p>
+    </td>
+    <td align="center" width="33%">
+      <h3>Approach</h3>
+      <p>
+        building, learning, shipping<br/>
+        clean products<br/>
+        useful experiences
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+![](https://img.shields.io/badge/Main%20Focus-Android%20%26%20Software%20Engineering-1f1f1f?style=for-the-badge)
+![](https://img.shields.io/badge/Style-Clean%20and%20Modern-1f1f1f?style=for-the-badge)
+![](https://img.shields.io/badge/Status-Building%20Learning%20Shipping-1f1f1f?style=for-the-badge)
 
 </div>
 
