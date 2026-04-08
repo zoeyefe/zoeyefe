@@ -59,13 +59,14 @@ val efe = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dzoeyefe%26show_icons%3Dtrue%26theme%3Dtokyonight%26include_all_commits%3Dtrue%26count_private%3Dtrue" />
-    <img height="180em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dzoeyefe%26layout%3Dcompact%26theme%3Dtokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoeyefe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoeyefe&layout=compact&theme=tokyonight" />
 </div>
 
 <div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dzoeyefe%26theme%3Dtokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=zoeyefe&theme=tokyonight" />
 </div>
+
 ---
 
 ## 📈 Contribution Graph
