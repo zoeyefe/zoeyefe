@@ -59,8 +59,8 @@ val efe = Developer(
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zoeyefe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zoeyefe&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zoeyefe&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zoeyefe&theme=tokyonight" />
 </div>
 
 <div align="center">
@@ -77,10 +77,10 @@ val efe = Developer(
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zoeyefe&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoeyefe&theme=tokyonight" width="100%" />
 </div>
 
 ---
