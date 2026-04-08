@@ -122,21 +122,8 @@
 ## 🏆 GitHub Highlights
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zoeyefe&theme=github_dark" width="100%" />
-</div>
-
----
-
-## 🚀 Current Vibe
-
-<div align="center">
-
-```text
-designing smooth experiences
-writing maintainable code
-turning ideas into products
-```
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zoeyefe&theme=github_dark&utcOffset=3" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zoeyefe&theme=github_dark" />
 </div>
 
 ---
