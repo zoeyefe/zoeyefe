@@ -18,7 +18,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/efeservili)
 [![X](https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white)](https://x.com/zoeyefese)
 [![YouTube](https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@efeservili)
-[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eservili42@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:efe@efeservili.dev)
 
 <br/><br/>
 
